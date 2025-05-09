@@ -60,7 +60,6 @@ How to Use
 
 - **Missing Punctuation in Generated Content**: The generated Traditional Chinese translations occasionally lack proper punctuation marks. This issue is being investigated, and future updates will aim to improve the handling of punctuation in the output.
 
----
 
 ## References
 - J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
