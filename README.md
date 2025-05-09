@@ -2,7 +2,6 @@
 
 This is a Simplified Chinese to Traditional Chinese translation tool, specifically designed for localization to the Taiwanese context. This project leverages OpenAI's GPT models, fine-tuned on domain-specific datasets, to provide accurate and culturally appropriate translations. It supports both single-sentence translation and batch translation via file uploads, with additional features like translation history and CSV export.
 
----
 
 ## Features
 
@@ -12,7 +11,6 @@ This is a Simplified Chinese to Traditional Chinese translation tool, specifical
 - **Translation History**: Save and view past translations, with the option to download the history as a CSV file.
 - **Customizable Translation Styles**: Choose from Formal, Casual, or Neutral styles to suit your needs.
 
----
 
 ## Installation
 
@@ -27,7 +25,6 @@ This is a Simplified Chinese to Traditional Chinese translation tool, specifical
     ```
 3. Set up your Open API key in `streamlit.py`
 
----
 
 ## Usage
 
@@ -47,7 +44,6 @@ How to Use
 
 5. Download the translation history or batch results as a CSV file.
 
----
 
 ## File Structure
 
@@ -59,7 +55,6 @@ How to Use
 - `Sim2Trad.pdf`: Presentation slides detailing the project overview and methodology.
 - `demo.mp4`: A video demonstration showcasing how to use the application.
 
----
 
 ## Known Issues
 
